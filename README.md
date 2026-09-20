@@ -9,7 +9,7 @@ Pratik Sangraula, Student ID: 12324885, COIT11223 - ICT Ethics and Governance in
 
 ![Workshop 9 attendance](workshop-photo.jpg)
 
-*Proof of attendance at the Week 9 workshop, Censorship and Government. Tutor: G Galea. Date: [EDIT: workshop date]. Campus: CQUniversity Sydney.*
+*Proof of attendance at the Week 9 workshop, Censorship and Government. Tutor: G Galea. Campus: CQUniversity Sydney.*
 
 ---
 
