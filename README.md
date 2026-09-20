@@ -7,7 +7,7 @@ Pratik Sangraula, Student ID: 12324885, COIT11223 - ICT Ethics and Governance in
 
 ## Workshop 9 attendance
 
-![Workshop 9 attendance](images/workshop-photo.jpg)
+![Workshop 9 attendance](workshop-photo.jpg)
 
 *Proof of attendance at the Week 9 workshop, Censorship and Government. Tutor: G Galea. Date: [EDIT: workshop date]. Campus: CQUniversity Sydney.*
 
@@ -17,7 +17,7 @@ Pratik Sangraula, Student ID: 12324885, COIT11223 - ICT Ethics and Governance in
 
 ABC News 2025, video, 10 December 2025. https://www.youtube.com/watch?v=dM22XaG1ifo
 
-![Artefact 1 video](images/artefact1-screenshot.png)
+![Artefact 1 video](artefact1-screenshot.png)
 
 ### Description of the artefact
 
@@ -33,7 +33,7 @@ A public broadcasting channel was selected instead of a commentary channel as th
 
 Clover, J 2025, news report, Broadband TV News, 19 February 2025. [https://www.broadbandtvnews.com/2025/02/19/cloudflare-takes-legal-action-over-laligas-disproportionate-blocking-efforts/](https://www.broadbandtvnews.com/2025/02/19/cloudflare-takes-legal-action-over-laligas-disproportionate-blocking-efforts/)
 
-![Artefact 2 article](images/artefact2-screenshot.png)
+![Artefact 2 article](artefact2-screenshot.png)
 
 ### Summary of the artefact
 
@@ -49,7 +49,7 @@ I have chosen this artefact because this is censorship without any government in
 
 Shewly, HJ 2025, scholarly article, Dialogues on Digital Society, vol. 1, no. 3, pp. 457-462. DOI: 10.1177/29768640251381894
 
-![Artefact 3 article](images/artefact3-screenshot.png)
+![Artefact 3 article](artefact3-screenshot.png)
 
 ### Summary of the artefact
 
